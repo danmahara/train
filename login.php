@@ -15,5 +15,7 @@ if (!empty($_POST)) {
     <br>
     <input type="text" name="password">
     <br>
-    <button>Login</button>
+    <!-- <button>Login</button> -->
+
+    <button>Submit</button>
 </form>
